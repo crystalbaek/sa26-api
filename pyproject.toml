@@ -5,7 +5,9 @@ description = "API"
 authors = [
     {name = "crystalbaek", email = "bfilkl730@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "fastapi>=0.104.0",
+]
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
